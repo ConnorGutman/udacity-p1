@@ -25,8 +25,8 @@ nausicaa = media.Movie("Nausicaa of the valley of the wind",
                        "https://www.youtube.com/watch?v=6zhLBe319KE")
 do_the_right_thing = media.Movie("Do the Right Thing",
                                  "Do the Right Thing tells the story of racial \
-                                 divides within a community located in Bed-Stu\
-                                 y.",
+                                 divides within a community located in Bed-Stu"
+                                 "y.",
                                  "https://www.gstatic.com/tv/thumb/movieposter"
                                  "s/11644/p11644_p_v8_ab.jpg",
                                  "https://www.youtube.com/watch?v=muc7xqdHudI")
@@ -37,8 +37,8 @@ primer = media.Movie("Primer",
                      "60_p_v8_aa.jpg",
                      "https://www.youtube.com/watch?v=3nj5MMURCm8")
 adventureland = media.Movie("Adventureland",
-                            "A college student gets a summer job at Adventurela\
-                            nd.",
+                            "A college student gets a summer job at Adventurel"
+                            "and.",
                             "https://www.gstatic.com/tv/thumb/movieposters/191"
                             "158/p191158_p_v8_aa.jpg",
                             "https://www.youtube.com/watch?v=gfPE_MEKipM")
