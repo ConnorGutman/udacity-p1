@@ -10,7 +10,8 @@ class Movie():
     # Create the initializer for the Movie class. This will declare several
     # variables shown bellow such as title, storyline, etc.
 
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
+    def __init__(self,
+                 movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
